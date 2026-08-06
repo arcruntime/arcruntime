@@ -1,6 +1,6 @@
 ## Hi there, I'm arcruntime 👋
 
-Product marketer for **AI products** — and I build them, too. Ex-Google (developer marketing, Google Play, APAC → global), now shipping an AI-powered English-learning app in Tokyo end to end: product scoping, the Next.js web app, and speech / pronunciation AI integration.
+PM for **AI products** — and I build them, too. Ex-Google (developer marketing, Google Play, APAC → global), now shipping an AI-powered English-learning app in Tokyo end to end: product scoping, the Next.js web app, and speech / pronunciation AI integration.
 
 ### What I'm working on
 Most of my active code lives in **private repos** (a product in development), so this profile is quieter than the actual work. Recent hands-on:
