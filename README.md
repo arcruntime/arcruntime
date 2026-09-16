@@ -1,35 +1,30 @@
-## Hi, I'm arcruntime
+# Hi, I'm Kelly
 
-I'm a PM for AI products and build them, too. Ex-Google (developer marketing for Google Play, APAC → global). Now working on music, audio ML, and product in Tokyo.
+I'm a product-minded AI/audio builder in Tokyo.
 
-### Primary dev project:  Lodestone
+My background is product marketing at Google, where I worked on developer and consumer growth for Google Play across APAC and global teams. More recently, I completed an AI/data science bootcamp at Le Wagon Tokyo and have been building small music and language tools to turn that technical foundation into product judgment I can show.
 
-A relative-pitch ear trainer I designed and built end to end.
+I'm interested in product roles at the edge of AI, audio, music, learning, and creative tools: technical enough to prototype and evaluate, product-minded enough to decide what should ship.
 
-**[Live](https://lodestone-55o.pages.dev/app/)** · **[Source](https://github.com/arcruntime/lodestone)**
+## Current Focus
 
-It teaches you to hear scale degrees by feel. The part I care about is underneath: it keeps three measurements separate that most trainers collapse into a frustratingly vague "sounds off."
+I'm preparing three public case studies:
 
-**Roughness:** Physical beating between partials inside a critical band. Acoustic, and the same for any listener.
+- **Cratewise**: DJ library health checks and situation-aware crate building for Rekordbox workflows.
+- **Lodestone**: relative-pitch ear training that explains roughness, tonal pull, fusion, and practice scheduling. This is staying private until the sound design and learning flow meet the product bar.
+- **Plink**: a spatial music playground where object placement becomes generative composition.
 
-**Tonal pull:** Learned expectation. The app labels it that way, because there's no physical mechanism to show and pretending otherwise would be a lie.
+The repositories are private while I clean them up for review. I would rather publish fewer projects with clear demos, honest limitations, and strong product reasoning than keep half-finished experiments on the front page.
 
-**Harmonic fusion:** Overtone alignment, computed at runtime from equal-tempered frequencies.
+## What I Bring
 
-There's also a waveform view that stacks the root, the interval, and their sum. Sweep from unison outward and you watch the beat envelope go from flat, to a slow shimmer, to a grind.
+- Product positioning, user insight, and launch judgment from Google PMM work.
+- Hands-on Python, SQL, ML, and data science training.
+- Practical prototyping across Web Audio, speech/TTS APIs, TypeScript, and lightweight ML apps.
+- A musician's ear for audio quality, interaction feel, and the point where a clever system becomes pleasant to use.
 
-It's a single HTML file with Web Audio synthesis, no dependencies and no build step. Still early stages and getting tested against actual practice sessions.
+## Toolbox
 
-### Other projects
+`Python` · `SQL` · `TypeScript` · `Web Audio API` · `speech & TTS APIs` · `FastAPI` · `Streamlit` · `data visualization`
 
-Most of my current code is in private repos, so this profile is quieter than the work which includes:
-
-* Pronunciation assessment integrated into an English-learning app for the Japan market
-* TTS evaluation, browser Web Speech against hosted neural voices, scored on naturalness, pronunciation accuracy, and cross-device consistency
-* Python and SQL analysis, METI-certified data science program
-
-### Toolbox
-
-`Python` · `SQL` · `Web Audio API` · `speech & TTS APIs` · `Next.js / TypeScript` · `data viz`
-
-📍 Tokyo · 🗣️ EN / JP, JLPT N1 · 🎧 I produce and DJ, which is how Lodestone got started
+Tokyo · English / Japanese, JLPT N1 · music production and DJing
