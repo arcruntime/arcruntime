@@ -1,4 +1,4 @@
-# Hi, I'm Kelly
+# Hi, I'm KJ
 
 I'm a product-minded AI/audio builder in Tokyo.
 
